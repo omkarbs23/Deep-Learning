@@ -1,1 +1,6 @@
-Aim:- Digit_Classification(Mnist)
+# Digit Classification using ANN
+
+<b> Project Name :- </b> Digit Classification
+
+<b> Aim :- </b>  The goal of the project was to develop a deep learning algorithm capable of precisely categorizing an image array into one of the ten classes, numbered 0 through 9.
+
