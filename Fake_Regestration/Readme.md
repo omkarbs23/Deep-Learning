@@ -1,4 +1,4 @@
-# Linear Regression using ANN (Fake Registration)
+# Linear Regression using ANN/Standard Model (Fake Registration)
 
 <b> Project Name :- </b> Fake Registration
 
